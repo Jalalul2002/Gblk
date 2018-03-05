@@ -1,0 +1,55 @@
+.wadah{
+	width: 10%;
+	float: left;
+}
+.spasi{
+	margin: 5px;
+}
+.kotak{
+	height: 70px;
+	background-color: black;
+}
+.wadah1{
+	width: 11.11%;
+	float: left;
+}
+.spasi1{
+	margin: 5px;
+}
+.kotak1{
+	height: 67px;
+	background-color: black;
+}
+.wadah2{
+	width: 12.5%;
+	float: left;
+}
+.spasi2{
+	margin: 10px 5px;
+}
+.kotak2{
+	height: 64px;
+	background-color: black;
+}
+.wadah3{
+	width: 50%;
+	float: left;
+}
+.spasi3{
+	margin: 10px 5px;
+}
+.kotak3{
+	height: 100px;
+	background-color: black;
+}
+.wadah4{
+	width: 33.33%;
+	float: left;
+}
+.spasi4{
+	margin: 5px;
+}
+.kotak4{
+	height: 100px;
+	background-color: black;
+}
